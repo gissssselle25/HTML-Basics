@@ -1,2 +1,2 @@
-# study-buddy
-This project is about creating a website using coding tools. 
+# HTML-Basics
+This project is about learning the basics of HTML. 
